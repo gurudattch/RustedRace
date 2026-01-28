@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=RustedRace
+Comment=Race Condition Vulnerability Explorer
+Exec=/home/bug/Desktop/files/target/release/rustedrace
+Icon=/home/bug/Desktop/files/src/rustedrace.png
+Terminal=false
+Type=Application
+Categories=Development;Security;
