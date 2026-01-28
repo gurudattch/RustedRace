@@ -48,12 +48,17 @@ Authorization: Bearer <token>
 
 {"data": "value"}
 ```
+---
+
 **Replay Race**
 <img width="1920" height="1080" alt="Screenshot_2026-01-28_15_59_22" src="https://github.com/user-attachments/assets/42c015d3-f5f2-4797-a143-79e699b0b4f9" />
+
+---
 
 **Workflow Race**
 <img width="1920" height="1080" alt="Screenshot_2026-01-28_15_59_19" src="https://github.com/user-attachments/assets/e7bf924d-4a96-490a-b8bd-cc41bc000c4d" />
 
+---
 ### Wordlists
 - Load text files with one value per line
 - Use `{{UNIQUE}}` placeholder in requests
