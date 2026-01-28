@@ -267,5 +267,5 @@ For issues, feature requests, or questions:
 ---
 
 **Version**: 1.0.0  
-**Author**: Security Researcher  
+**Author**: Gurudatt Choudhary  
 **Built with**: Rust, egui, reqwest
