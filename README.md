@@ -20,7 +20,7 @@
 
 ### Quick Start
 ```bash
-git clone <repository-url>
+git clone https://github.com/gurudattch/RustedRace
 cd RustedRace
 cargo build --release
 ./target/release/rustedrace
