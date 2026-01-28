@@ -1,6 +1,7 @@
 # RustedRace
 
 <p align="center"><img src="https://github.com/gurudattch/RustedRace/blob/main/src/rustedrace.png"></p>
+
 **RustedRace** A GUI-based race condition vulnerability testing tool built in Rust. RustedRace allows security researchers and developers to explore and test for race condition vulnerabilities in web applications through two main testing modes: Replay Race and Workflow Race.
 
 ## Features
