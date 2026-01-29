@@ -40,14 +40,14 @@ chmod +x launch.sh
 4. **Set concurrency** (number of parallel requests)
 5. **Click "Start Race"** and monitor results
 
-### Request Format
-```
-GET /api/endpoint HTTP/1.1
-Host: example.com
-Authorization: Bearer <token>
+## How to use
+1. Launch the tool
+2. Paste Request from burp
+3. Edit configuration according to your use case
+4. Click on **Parse the request**
+5. **Start Race Attack**
 
-{"data": "value"}
-```
+Analyze response report in sidebar 
 ---
 
 **Replay Race:**
@@ -65,6 +65,7 @@ Authorization: Bearer <token>
 - Load text files with one value per line
 - Use `{{UNIQUE}}` placeholder in requests
 - Values get substituted automatically
+
 
 ## Configuration
 
