@@ -46,8 +46,10 @@ chmod +x launch.sh
 3. Edit configuration according to your use case
 4. Click on **Parse the request**
 5. **Start Race Attack**
+Analyze response report in sidebar
 
-Analyze response report in sidebar 
+Tip: For better Result make number of Threads & Total Requests equal 
+
 ---
 
 **Replay Race:**
